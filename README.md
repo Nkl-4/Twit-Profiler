@@ -1,2 +1,2 @@
 # Twit-Profiler
-Creates Detailed analysis of twitter profiles
+Creates detailed analysis of twitter profiles
